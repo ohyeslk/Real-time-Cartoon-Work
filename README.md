@@ -5,6 +5,9 @@ Real-time-Cartoon-Work (FPGA Design)
 PROJECT: Real-time Cartoon Work 04/2013- 08/2013 
 Description: Won Second prize in Altera Innovate Asia 2013 FPGA Design Contest. Student Training Innovation Programs 
 
+Patent:
+Jie Wang, Kai Lu, and Yin Lin, “Real-time Special Effect Video Processor Based on FPGA ”(ZL 2012 2 0618962.X)
+
 We first use MATLAB code to realize its prototype, and then implement it in FPGA Develop Kit.
 
 
